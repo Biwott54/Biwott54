@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Zenah
 She/Her
 
-# 💫 About Me:
 A passionate Data Science student!
 
 Always up to learn something new <br><br>
